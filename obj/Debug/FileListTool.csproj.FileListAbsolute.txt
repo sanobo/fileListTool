@@ -1,0 +1,6 @@
+C:\Users\us1204\Desktop\fileListTool\bin\Debug\FileListTool.exe
+C:\Users\us1204\Desktop\fileListTool\bin\Debug\FileListTool.pdb
+C:\Users\us1204\Desktop\fileListTool\obj\Debug\FileListTool.csproj.AssemblyReference.cache
+C:\Users\us1204\Desktop\fileListTool\obj\Debug\FileListTool.csproj.CoreCompileInputs.cache
+C:\Users\us1204\Desktop\fileListTool\obj\Debug\FileListTool.exe
+C:\Users\us1204\Desktop\fileListTool\obj\Debug\FileListTool.pdb
